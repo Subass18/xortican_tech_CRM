@@ -1,0 +1,23 @@
+CRM Web Application
+Technologies: Python, Django, HTML, CSS, JavaScript, PostgreSQL
+Role: Full Stack Developer
+Duration: Jan 2025 – Mar 2025
+
+Description:
+Developed a web-based Customer Relationship Management (CRM) system to manage leads, customers, follow-ups, and sales activities. Implemented role-based access for Admin, Sales, and Support teams.
+
+Key Features:
+
+User Login, Signup, and Role-based Access (Admin, Sales, Support)
+
+Lead Management (Add, Update, Track, Assign leads)
+
+Customer Details and Interaction History
+
+Task & Follow-up Reminders
+
+Sales Dashboard with charts and statistics
+
+Export reports in CSV format
+
+Admin Panel to manage users and settings
